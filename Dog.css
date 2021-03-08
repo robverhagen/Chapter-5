@@ -1,4 +1,6 @@
 @charset "utf-8";
+
+/* line 4is ok but its not related to any tag or class - you have the body tag in line 5 but not the required attributes from line 4 */
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
 body {background-image: url("images/background.jpg")}
 
